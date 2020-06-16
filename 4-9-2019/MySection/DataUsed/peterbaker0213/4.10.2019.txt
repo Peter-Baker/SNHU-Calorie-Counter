@@ -1,0 +1,7 @@
+breakfast
+Sausage:225
+lunch
+dinner
+snacks
+root_beer:220
+workouts

@@ -1,0 +1,7 @@
+breakfast
+Home_Fries:161
+Bacon:120
+lunch
+dinner
+snacks
+workouts

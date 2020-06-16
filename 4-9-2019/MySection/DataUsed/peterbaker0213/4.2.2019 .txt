@@ -1,0 +1,6 @@
+breakfast
+Scrambled_Plain:365
+lunch
+dinner
+snacks
+workouts

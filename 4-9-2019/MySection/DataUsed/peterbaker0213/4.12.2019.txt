@@ -1,0 +1,7 @@
+breakfast
+Bacon:120
+lunch
+dinner
+snacks
+orange_fanta:220
+workouts

@@ -1,0 +1,8 @@
+Firstname: Peter
+Lastname: Baker
+Username: peterbaker0213
+Password: Pw12345&
+Email: peter.baker@snhu.edu
+Height: 5'05"
+Weight: 150.00
+CalCount: 2000
